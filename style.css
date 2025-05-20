@@ -228,6 +228,7 @@ body {
     padding: 0px 20px;
     bottom: -20px;
     border: 3px solid var(--color-black);
+    font-family: 'Dancing Script', cursive;
 }
 .date__of__birth span, .name span{
     font-weight: bold;
